@@ -213,11 +213,12 @@
         margin: 0;
     }
     .otzv {
+        display: flex;
         flex-direction: column;
         column-gap: 30px;
         flex-wrap: wrap;     
         height: 730px;
-        margin: 10px 30px 0px 30px;
+        align-items: center;
     }
     .ava_top {
         height: 50px;
