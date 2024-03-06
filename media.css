@@ -350,4 +350,45 @@
         background: #f1f1f1;
         border-radius: 10px;
     }
+    .conteiner3 {     
+        flex-direction: column-reverse;
+    }
+    .conteiner3_1_top h1 {
+        font-size: 20px;
+        margin: 0;
+    }
+    .conteiner3_1_top {
+        display: flex;
+        width: 100%;
+        height: 60px;
+        align-items: center;
+        text-align: center;
+    }
+    .conteiner3_1 {
+        row-gap: 5px;
+        margin: 0px 0 30px 10px;
+        width: 95%;
+    }
+    .conteiner3_1_center p {
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .conteiner3_1_center {
+        display: flex;
+        width: 100%;
+        height: 130px;
+    }
+    .conteiner3_1_bottom {
+        height: 80px;
+    }
+    .busines_button {
+        width: 95%;
+        height: 40px;
+        border-radius: 20px;
+        font-size: 14px;
+    }
+    .conteiner3_2 {
+        display: flex;
+        width: 100%;
+    }
 }
