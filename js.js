@@ -6,8 +6,6 @@ document.addEventListener("DOMContentLoaded", function(){
 
 })
 
-var message = "Привет! ";
-alert(message);
 
 $(window).scroll(function () {
     $(".filtr").css("display", "none").fadeIn("fast");
