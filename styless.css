@@ -4,6 +4,9 @@ body{
     overflow-x: hidden;
     background-color: rgb(154, 173, 86);
 }
+*{
+    scroll-behavior: smooth;
+}
     .wr{
         width: 1400pxpx;
     }
